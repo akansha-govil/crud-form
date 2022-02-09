@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "akansha",
+      "email": "akansha@example.com",
+      "address": "siddheswar nagar",
+      "phone": "2333333"
+      
+    },
+    {
+      "id": 2,
+      "stuname": "rahul singh",
+      "email": "rahul@example.com"
+    },
+    {
+      "id": 4,
+      "stuname": "misba",
+      "email": "misba@example.com"
+    },
+    {
+      "id": 5,
+      "stuname": "samriddhi",
+      "email": "samriddhi@example.com"
+    },
+    {
+      "stuname": "amit",
+      "email": "amit@gmail.com",
+      "id": 6
+    },
+    {
+      "stuname": "anuj ",
+      "email": "anuj@gmail.com",
+      "password": "12345",
+      "address": "siddheswar nagar",
+      "phone": "5464646464646",
+      "id": 7,
+      "role":"User"
+    },
+    {
+      "stuname": "anuj",
+      "email": "anananan",
+      "password": "dhdhdhdh",
+      "address": "dhdhdhdh",
+      "phone": "2234444444",
+      "id": 8
+    },
+    {
+      "stuname": "anuj",
+      "email": "ahahaahah",
+      "id": 9
+    },
+    {
+      "stuname": "sanjana",
+      "email": "sanjana@gmail.com",
+      "password": "12345",
+      "address": "ddsadsd",
+      "phone": "33434343",
+      "id": 10,
+      "role":"ADMIN"
+    },
+    {
+      "stuname": "bbb",
+      "email": "bbbbbbbb",
+      "password": "12345",
+      "address": "bbbbbbbbbbbb",
+      "phone": "9760712914",
+      "id": 11,
+      "role":"MODERATOR"
+    }
+  ]
+}

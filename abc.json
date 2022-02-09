@@ -1,0 +1,26 @@
+{
+    "students" : [
+        {
+            "id": 1,
+            "name" : "akansha",
+            "email" : "akanshagovil@gmail.com",
+            "password" : "12345",
+            "role"  : "USER"
+        },
+        {
+            "id": 2,
+            "name" : "amit",
+            "email" : "amit@gmail.com",
+            "password" : "12345",
+            "role"  : "ADMIN"
+        },
+        {
+            "id": 3,
+            "name" : "anuj",
+            "email" : "a@gmail.com",
+            "password" : "12345",
+            "role"  : "MODERATOR"
+        }
+
+    ]
+}

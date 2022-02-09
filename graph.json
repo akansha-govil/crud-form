@@ -1,0 +1,37 @@
+{
+    "details" : [
+        {
+            "course":"javascript",
+            "students":10,
+            "fees" : 10
+        },
+        {
+            "course":"bootstrap",
+            "students":30,
+            "fees" : 10
+        },
+        {
+            "course":"react js",
+            "students":40,
+            "fees" : 15
+        },
+        {
+            "course":"mongo db",
+            "students":25,
+            "fees" : 5
+        },
+        {
+            "course":"c",
+            "students":35,
+            "fees" : 30
+        },
+        {
+            "course":"C++",
+            "students":3,
+            "fees" : 5
+        }
+    ]
+
+
+
+}
